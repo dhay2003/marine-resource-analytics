@@ -4,8 +4,7 @@
 
 This project analyzes over 4,000 abalone records to explore relationships between environmental conditions, physical characteristics, and biological maturity
 
-Using SQL, Python, and Tableau, the project explores relationships between water temperature, geographic region, shell measurements, weight metrics, and abalone age indicators.
-
+Using Python Machine Learning and data visualization techniques, the analysis explores relationships between physical measurements, water conditions, and ring count, a commonly used indicator of abalone age. 
 ## Objectives
 - Analyze regional differences in abalone populations
 - Investigate relationships between environmental conditions and maturity
@@ -30,32 +29,34 @@ The dataset contains:
  - Scikit-Learn
  - Matplotlib
  - Seaborn
- - Tableau Public
  - Git
  - GitHub
 
 ## Research Questions
 
-  1. Which water regions contain the oldest abalones?
-  2. Is water temperature related to age?
-  3. Which biological measurements best predict maturity?
-  4. How do growth characterisitcs differ by gender?
+ 1. Which biological measurements are most strongly associated with maturity?
+ 2. Does water temperature influence ring count?
+ 3. How do maturity levels vary across regions?
+ 4. Can machine learning predict ring count using physical measurements?
 
-## Key Findings
+## Exploratory Data Analysis
+The dataset was evaluated for completeness, distribution patterns, and relationships between biological and environmental variables. 
 
-### Finding 1
+### Key Findings
+
+#### Finding 1
 
 Shell weight was the strongest predictor of maturity with a correlation of 0.63 and accounted for over 50% of Random Forest feature importance. 
 
-### Finding 2
+#### Finding 2
 
 Water temperature demonstratd almsot no relationship with maturity (correlation = -0.022).
 
-### Finding 3 
+#### Finding 3 
 
 Mid-Atlantic populations exhibited the higest average maturity levels among sampled regions. 
 
-### Finding 4 
+#### Finding 4 
 
 Biological characteristics explained maturity differences more effectively than environmental temperature. 
 
