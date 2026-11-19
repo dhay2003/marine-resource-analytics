@@ -68,7 +68,7 @@ The model successfully captured meaningful relationships between physical charac
 ## Visualizations
 
 ### Correlation Heatmap
-visualizations/shell_weight_vs_rings.png
+Correlation Heatmap
 ### Shell Weight vs Rings
 visualizations/correlation_heatmap.png
 ### Feature Importance
