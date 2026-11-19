@@ -1,4 +1,6 @@
 # Marine Resource Analytics
+Python • Pandas • Scikit-Learn • Data Visualization • Machine Learning
+Analysis of 4,176 abalone observations to identify biological and environmental factors associated with maturity.
 
 ## Overview
 
