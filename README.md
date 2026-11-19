@@ -4,7 +4,7 @@ Analysis of 4,176 abalone observations to identify biological and environmental 
 
 ## Interactive Dashboard
 
-![View the Tableau Public Dashboard:](https://public.tableau.com:9443/views/MarineResourceAnalytics/MarineResourceAnalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the Tableau Public Dashboard:](https://public.tableau.com:9443/views/MarineResourceAnalytics/MarineResourceAnalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Overview
