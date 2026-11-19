@@ -72,7 +72,7 @@ The model successfully captured meaningful relationships between physical charac
 ### Shell Weight vs Rings
 ! [Shell Weight vs Rings](visualizations/correlation_heatmap.png)
 ### Ring Distribution by Gender
-![Ring Distribution by Gender](visualizations/ring_by_gender_boxplot.png)
+![Ring Distribution by Gender](visualizations/rings_by_gender_boxplot.png)
 ### Feature Importance
 ! [Feature Importance](visualizations/feature_importance.png)
 ### Actual vs Predicted
