@@ -68,13 +68,13 @@ The model successfully captured meaningful relationships between physical charac
 ## Visualizations
 
 ### Correlation Heatmap
-! [Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
 ### Shell Weight vs Rings
-! [Shell Weight vs Rings](visualizations/correlation_heatmap.png)
+![Shell Weight vs Rings](visualizations/correlation_heatmap.png)
 ### Ring Distribution by Gender
 ![Ring Distribution by Gender](visualizations/rings_by_gender_boxplot.png)
 ### Feature Importance
-! [Feature Importance](visualizations/feature_importance.png)
+![Feature Importance](visualizations/feature_importance.png)
 ### Actual vs Predicted
-! [ Actual vs Predicted](visualizations/actual_vs_predicted.png)
+![ Actual vs Predicted](visualizations/actual_vs_predicted.png)
 
